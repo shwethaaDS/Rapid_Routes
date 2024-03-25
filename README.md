@@ -1,1 +1,1 @@
-# Rapid_Routes
+Operational Research Problem solved using Python. Utilized pandas and numpy to implement methods that aim to optimize the delivery routes, and minimize the number of drivers for efficient and timely parcel distribution. Involves developing a routing algorithm to achieve cost-effective and optimized delivery solutions.
